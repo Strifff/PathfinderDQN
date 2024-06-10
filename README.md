@@ -32,7 +32,7 @@ The floor of the randomness used to select actions, applicable after the decay o
 
 ![Minimum entropy optimization](images/opt_entropy.png)
 
-$5\%$ was too low but anything between $10-25\%$ was fine.
+$5$\% was too low but anything between $10-25$\% was fine.
 
 ### Batch size
 
