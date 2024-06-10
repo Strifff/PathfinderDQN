@@ -32,7 +32,7 @@ The floor of the randomness used to select actions, applicable after the decay o
 
 ![Minimum entropy optimization](images/opt_entropy.png)
 
-$5%$ was too low but anything between $10-25%$ was fine.
+$5\%$ was too low but anything between $10-25\%$ was fine.
 
 ### Batch size
 
@@ -74,7 +74,7 @@ This simple environment only requires a shallow network, but tapering or uniform
 
 ![3 hidden layers](images/opt_3deep.png)
 
-3 hidden layers performed great, 256-128-54 or 128-64-32 was optimal.
+3 hidden layers performed great, $256-128-54$ or $128-64-32$ was optimal.
 
 #### Uniform hidden layers
 
